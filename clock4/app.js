@@ -11,7 +11,7 @@ function draw() {
     var circle = {
         outer: {
             radius  : 0.9,
-            color   : "#ff0000"
+            color   : "#ff00ff"
         },
         inner: {
             radius  : 0.85,
